@@ -13,4 +13,5 @@
 ## Все разработка ведёться в директории `source`
 ## Итоговый код попадает в директорию `build`
 
-Если у вас есть желание что-то изменить или улучшить, пожалуйста, открывайте pull request с вашими комментариями.
+Если у вас есть желание что-то изменить или улучшить, пожалуйста, открывайте pull request с вашими комментариями.# arctic git init git add README.md git commit -m first commit git remote add origin https://github.com/bondarewoleg/arctic.git git push -u origin master
+# arctic git init git add README.md git commit -m first commit git remote add origin https://github.com/bondarewoleg/arctic.git git push -u origin master
